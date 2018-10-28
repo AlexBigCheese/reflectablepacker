@@ -71,4 +71,8 @@ class RPackSerializer {
     // Placeholder
     return _legacyRetype(obj);
   }
+
+  const RPackSerializer();
 }
+
+var rpackserializer = const RPackSerializer();

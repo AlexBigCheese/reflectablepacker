@@ -1,0 +1,7 @@
+name: ReflectablePackager
+version: 0.1.0
+dependencies:
+  reflectable: any
+  build_runner: any
+dev_dependencies:
+  test: any
